@@ -1,0 +1,34 @@
+{
+  "name": "@kszongic/matrix-rain-cli",
+  "version": "1.0.0",
+  "description": "Matrix digital rain effect in your terminal. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "matrix-rain": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js --help"
+  },
+  "keywords": [
+    "matrix",
+    "rain",
+    "terminal",
+    "animation",
+    "cli",
+    "ascii",
+    "fun",
+    "screensaver"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/matrix-rain-cli"
+  },
+  "homepage": "https://github.com/kszongic/matrix-rain-cli#readme",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ]
+}
